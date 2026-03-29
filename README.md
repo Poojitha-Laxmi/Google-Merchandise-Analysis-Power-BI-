@@ -1,4 +1,4 @@
-## **Google Merchandise Store Analysis (Power BI + SQL)**
+## **Google Merchandise Store Analysis (Power BI)**
 
 ** Objective**
 Analyze user behavior, traffic sources, and revenue trends to identify key drivers of conversions and overall eCommerce performance.
