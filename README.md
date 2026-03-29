@@ -1,22 +1,22 @@
-**Google Merchandise Store Analysis (Power BI + SQL)**
+## **Google Merchandise Store Analysis (Power BI + SQL)**
 
 ** Objective**
 Analyze user behavior, traffic sources, and revenue trends to identify key drivers of conversions and overall eCommerce performance.
 
-**Tools Used**
+## **Tools Used**
 
 * Power BI
 * SQL (BigQuery dataset)
 * Google Analytics Sample Data
 
-**Dashboard Preview**
+## **Dashboard Preview**
 <img width="1327" height="726" alt="image" src="https://github.com/user-attachments/assets/0df9c03c-20af-4766-a892-03dc1526fbd5" />
 
 
 
 ---
 
-Key Insights
+## Key Insights
 
 * Significant revenue spike observed around mid-month, likely driven by promotions or high-value purchases
 * Conversion rate remains relatively low (~1–2%), indicating opportunities to optimize the user journey
